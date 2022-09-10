@@ -45,6 +45,10 @@ p{
     color: rgb(255, 255, 255);
 }
 
+h2{
+    color: #fff;
+}
+
 .container,
 .products-container{
     max-width: 1300px;
@@ -96,6 +100,7 @@ p{
     margin: 30px 0;
     border-radius: 30px;
     transition: background 0.5s;
+    width: 100%;
 }
 
 .btn:hover{
@@ -188,15 +193,7 @@ ion-icon{
     width: 20px;
 }
 
-.cart{
-    position: fixed;
-    background: #bc5540;
-    color:#fff;
-    transition: background 0.5s;
-    padding: 8px 8px;
-    margin: -25px 1210px;
-    border-radius: 80px;
-}
+
 
 .cart:hover{
     background: #563434;
@@ -491,6 +488,7 @@ input:focus{
 
 .removeAll{
     background-color: rgb(31, 70, 31);
+    color: #fff;
 }
 
 .removeAll:hover{
@@ -548,6 +546,7 @@ input:focus{
 .total-price{
     border: 2px solid #000;
     border-radius: 5px;
+    color: #fff;
 }
 
 .c-buttons{
@@ -754,126 +753,5 @@ input,textarea{
         display: none;
     }
 
-    .cart{
-        position: fixed;
-        background: #d4d4d4;
-        color:#fff;
-        transition: background 0.5s;
-        padding: 6px 6px;
-        top: 80px;
-        margin: 10px 0px;
-        border-radius: 70px;
-    }
-    
-    .cart:hover{
-        background: #5e5e5e;
-    }
-
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

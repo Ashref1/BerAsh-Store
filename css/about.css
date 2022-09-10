@@ -8,7 +8,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: hsl(0, 0%, 36%);
+    background-color: hsl(0, 0%, 20%);
 }
 
 .navbar{
@@ -34,11 +34,11 @@ nav ul li{
 
 a{
     text-decoration: none;
-    color: #555;
+    color: #000;
 }
 
 p{
-    color: #555;
+    color: #000;
 }
 
 .container{
@@ -88,7 +88,7 @@ p{
 
 .content-section .content h3{
     margin-top: 20px;
-    color: #555;
+    color: #000;
     font-size: 21px;
 }
 

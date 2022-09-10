@@ -54,7 +54,7 @@ let generateCartItems = () => {
                   </div>
 
                     <div class="c-buttons">
-                            <h4>Quantité :</h4>
+                            <h4>Quantité:</h4>
                             <ion-icon onclick="decrement(${id})" name="remove-outline"></ion-icon>
                             <div id=${id} class="quantity">${item}</div>
                             <ion-icon onclick="increment(${id})" name="add-outline"></ion-icon>
@@ -65,6 +65,7 @@ let generateCartItems = () => {
                     <input type="radio" name="size" value="S" required>S<br>
                     <input type="radio" name="size" value="M" required>M<br>
                     <input type="radio" name="size" value="L" required>L<br>
+                    <input type="radio" name="size" value="XL" required>XL<br>
                  </div>
 
                     <label for="total"></label>
