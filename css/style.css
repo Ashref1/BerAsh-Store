@@ -214,7 +214,7 @@ ion-icon{
     top: -15px;
     right: -10px;
     font-size: 16px;
-    background-color: #ff523b;
+    background-color: #700000;
     color: white;
     padding: 3px;
     border-radius: 15px;
@@ -436,7 +436,7 @@ ul{
 }
 
 select{
-    border: 1px solid #ff523b;
+    border: 1px solid #897e7e;
     padding: 5px;
 }
 
@@ -754,7 +754,7 @@ input,textarea{
         position: absolute;
         top: 70px;
         left: 0;
-        background: #333;
+        background: rgb(26, 26, 26);
         width: 100%;
         overflow: hidden;
         transition: max-height 0.5s;
@@ -811,12 +811,12 @@ input,textarea{
 
     .cart{
         position: fixed;
-        background: #ff523bb6;
+        background: rgba(168, 36, 36, 0.83);
         color:#fff;
         transition: background 0.5s;
         padding: 6px 6px;
         top: 80px;
-        margin: 10px 0px;
+        margin: 10px -20px;
         border-radius: 70px;
     }
     
