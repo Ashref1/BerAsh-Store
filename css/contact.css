@@ -49,6 +49,19 @@ p{
     padding-right: 25px;
 }
 
+.cartAmount{
+    position: absolute;
+    top: 33px;
+    right: 85px;
+    font-size: 16px;
+    background-color: #1f1f1f;
+    color: white;
+    padding: 3px;
+    border-radius: 15px;
+
+
+}
+
 
 
 /*-----contact--------*/
@@ -296,13 +309,12 @@ ul{
     }
 
     .cart{
-        position: fixed;
-        background: #d4d3d3;
+        background: #1f1f1f;
         color:#fff;
         transition: background 0.5s;
         padding: 6px 6px;
         top: 80px;
-        margin: 10px -28px;
+        margin: 10px 0px;
         border-radius: 70px;
     }
     
